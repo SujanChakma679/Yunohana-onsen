@@ -1,0 +1,11 @@
+header{
+    color: rgb(101, 58, 6);
+   
+    
+}
+body{
+     background-image: url(../styles/image/onsen.jpg); 
+    background-size: cover;
+    background-position: center; 
+
+}
